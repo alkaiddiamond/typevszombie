@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.sites-runtime/
+*.log
+
+# Local extraction and inspection artifacts
+assets/pvz/raw/
+assets/pvz/classic/*-reference.cpp
+assets/pvz/classic/pose-check.png
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
